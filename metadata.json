@@ -1,0 +1,8 @@
+{
+  "name": "THE DELTA DATA HUB",
+  "description": "*The Delta Data Hub** and shortform *tDdh* handle bulk messy ai chats from any/ various platforms as pdf/markdown/json/zip or whatever",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
